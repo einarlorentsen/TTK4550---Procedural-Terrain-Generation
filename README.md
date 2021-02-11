@@ -1,5 +1,6 @@
-# Specialization-Project
-TTK4550 - Specialization Project with Jostein Sætra Schefte and Einar Lorentsen. 
+# A Noiseless Approach to Procedural Terrain Generation with River and Road Networks
+
+*TTK4550 - Specialization Project* with Jostein Sætra Schefte and Einar Lorentsen. 
 
 The project was done in the Unity Game Engine about procedural terrain generation with river and road networks. Complex networks, such as rivers and roads, has been a problem for games applying procedural generation. As a result, popular games such as *No Man's Sky* lack these features. 
 
